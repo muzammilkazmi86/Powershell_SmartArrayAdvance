@@ -18,7 +18,6 @@
 - First Run Sample:
 - 
     Item   User   01/17/2022 to 30/27/2022 30/28/2022 to 30/06/2022
-    ----   ----   ------------------------ ------------------------
     Item 1 User A Banana                   Apple                   
     Item 2 User B Strawberry               Banana                  
     Item 3 User C Cherry                   Strawberry              
